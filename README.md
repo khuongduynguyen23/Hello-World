@@ -7,4 +7,4 @@ Just change to see what happpen
 2. Learning the GDscript
 3. We stand on a shoulder of giant)
 > 20th Jan, 2026: Finish the GDscript GDquest site
-Just a very basic things of a development language. This is the first time I learn about the coding language.
+1. Just a very basic things of a development language. This is the first time I learn about the coding language.
