@@ -8,3 +8,6 @@ Just change to see what happpen
 3. We stand on a shoulder of giant)
 > 20th Jan, 2026: Finish the GDscript GDquest site
 1. Just a very basic things of a development language. This is the first time I learn about the coding language.
+> Finish my first game "Dodge the creep!"
+Source from Docs: https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html
+The game: 
