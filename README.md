@@ -10,4 +10,5 @@ Just change to see what happpen
 1. Just a very basic things of a development language. This is the first time I learn about the coding language.
 > Finish my first game "Dodge the creep!"
 Source from Docs: https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html
-The game: 
+The game: https://samdkay23.itch.io/dodge-the-creeps-learning-project-from-godot-docs
+> Final release for the first 2D game on 9th Feb 2026
